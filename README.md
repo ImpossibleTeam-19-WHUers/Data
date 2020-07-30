@@ -1,6 +1,6 @@
 ## Welcome to our Data page
 
-### In this reposories:
+### In this repositories:
 
 存放团队获取的所有数据：
 
